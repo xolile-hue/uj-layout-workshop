@@ -1,0 +1,28 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pizzas {
+    display: flex;
+}
+
+.pizza {
+    border: 5px solid chocolate;
+    padding: 1em;
+    border-radius: 0.4em;
+
+}
+.dominos_small{
+    background-color: blue;
+}
+
+
+.dominos_medium{
+    background-color: blue;
+}
+
+
+.dominos_large{
+    background-color: blue;
+}
